@@ -1,6 +1,6 @@
 # chip_analysis
 
-***籌碼分點統整通知_from_API.ipynb : ***
+**籌碼分點統整通知_from_API.ipynb :**
 目前是用TEJ API 來抓每日盤後的籌碼資料
 
 待辦 : 
