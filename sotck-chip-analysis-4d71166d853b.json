@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sotck-chip-analysis",
+  "private_key_id": "4d71166d853bcde255dc3701a45e00e0400da3e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDPIY0zKgpb/jHv\noxQc0Kusa6q3sYIg8bRkFmHlYnTQpZP5A+80Sw/ZSZnltucuz5VrzZ41y69cOIBI\nsrnnebWe8NLjn256X+/zitvJA6T6FGvo9nwA81TFpAtS7yCEvsGxGk5dTvArObtf\nrKl4b3wcH1rcGSAkC0GBsGNXG8JepJ76PiWt1B4nVuuyP4YHC60uypz5N74Lylom\nPpJ3Tjk03PQu+KeiDHU77wH5uH+qhdvVxS18D1mu4lk9yJR4zmYrm46fxDBHmB8j\nIMaxSbJSEttgRdO65GlLWFtcmPuiJuufdxVL98JRsmgu5dAIDbwpfh4tFskazuni\ngjemItL9AgMBAAECggEADeo8XOdSXlc/nhB32a64FcN+6svJSPLL8lxhk8IvRFQX\nUoeN4pa3WBredKT6t3WZHW6pFgaav4iJL7kYDaGqzqRxmnqbtqtqyJL3zHOK+gT0\nsegbMQon1AY+/4GSjvBsvTvd711N+61rddQ4518f+JivpzEl7F34NuD1b4TtJCPu\nkaoz26eFmQarb/QMtzvnsf2VVXtmJqBg4q8dHb/k6K44oYTO/1BCsfo0KXhpn5LE\nCyoFslb+3OQMxyNo+g5uW3rUBhwoChEYc2HRIlS4HF9EjcEWrhj9GtpNO6BYZrac\nuNZ88nv9rhAc/KRQ4uaQGEFf5P3En63nDeXpTTe5qQKBgQDythYCwQ3COh5VKCHn\nL19usExtsyx7QUs8FJaXawYeTIRgJwN4qLzOI1+ZTlRRVR4NSMKK7dZfjzLvLYsd\n0LemobCuU4QuQg/n9PYiBVgcOdWYxwWRje+B7Abpb4C7P7biKdd89rXagR+EJlFi\nuVmdiksAuwSXyw6bknfXf2j2uQKBgQDaeMM898V1LGyWNmqCDvoIR47tHWMCXUTA\n1D10iU7xSR8gfyFjPVOMRuwr/8VHSxsMSnV+s81s2fWWCh+3JFJwhjMuCr0ZZcxy\nwG41FPaEfF90OXolaW7D01pWF9suv51wExklaPylC8reDwufomC9QNiLczl6TTwg\nrhfEOgdcZQKBgQC6UbnX52eugHskmChelulFyaUCWZd+DwO4XX21Q31w6QB957Us\nfSxjepg60fy8awEk5YQirq3wsbdCEM5I1x8Elf9R8972u9QGFvCT8VJQaL1mCPJn\naHRCYnRz4xsJo8G7IK/ByIqV8KXHBrtXdD4tSCqHpwnBlSnjl67UCYUEUQKBgQCM\nZXbyQzf9qOLPVYD0u7MqhvHupyftaQq58KrdrS+yF4+NTqWiJNMAHsO/MssQmc90\nApWnKt0kypzsIu1mwEzKSzOwru3+2FCendM1AZe6ZELjadx5Flw8NCKlmQcd7725\nPEy4odNaLU3djkWl/K+2b2m5k/6n/eJaDgbv72qzkQKBgQCp2mV+FsquNvpN9rtG\nK4Pq8yHhZAMoeWd8A+vKE8U6cky7SywrwJto9VhU/KNM99LOEzJDI3YwskJVIabp\nOtpbkWpavOG4Z8akG+mNc2fUsR3dvlr/dHAiRIAh8jwmNhycYFaIS2UAh7eVK4CK\nz/1Bj331EvUeCuo0JbTzbhVB3Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chip-branch-cloud-api@sotck-chip-analysis.iam.gserviceaccount.com",
+  "client_id": "104797371291944799202",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chip-branch-cloud-api%40sotck-chip-analysis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
