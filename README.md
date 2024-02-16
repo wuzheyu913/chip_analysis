@@ -6,6 +6,9 @@
 **籌碼分點統整通知_from_API.ipynb :**
 使用TEJ API 來抓每日盤後的籌碼資料
 
-**sotck-chip-analysis-4d71166d853b.json** : 是用來抓取 google sheet 資料
+**sotck-chip-analysis-4d71166d853b.json :** 
+是用來抓取 google sheet 資料
 
+**mail_receive.xlsx :** 
+收件名單
 
