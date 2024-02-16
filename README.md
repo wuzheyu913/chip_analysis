@@ -7,8 +7,8 @@
 使用TEJ API 來抓每日盤後的籌碼資料
 
 **sotck-chip-analysis-4d71166d853b.json :** 
-是用來抓取 google sheet 資料
+是用來抓取 google sheet 資料 (https://docs.google.com/spreadsheets/d/1OeCiGA9Bp6TdOjrBW7R8XAvneaOdb53InlmiXnnKrEA/edit#gid=0)
 
 **mail_receive.xlsx :** 
-收件名單
+收件名單 (在此新增/刪減收件人)
 
