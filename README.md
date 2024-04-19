@@ -5,7 +5,7 @@
 **檔案圖片**
 ![image](https://github.com/wuzheyu913/chip_analysis/assets/71300574/fe68f881-a307-4f8d-936a-e45c2cd5b5ef)
 
-## 檔案說明
+## 需要檔案說明
 **籌碼分點統整通知_from_API.ipynb :**
 使用TEJ API 來抓每日盤後的籌碼資料
 
@@ -14,6 +14,11 @@
 
 **mail_receive.xlsx :** 
 收件名單 (在此新增/刪減收件人)
+
+**公司所在縣市.xlsx :**
+用來標出地緣
+
+
 
 # 更新
 ## 2024/04/19 更新
